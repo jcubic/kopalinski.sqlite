@@ -33,7 +33,6 @@ if __name__ == '__main__':
     path = './www.slownik-online.pl/kopalinski/'
     UTF8Writer = codecs.getwriter('utf8')
     sys.stdout = UTF8Writer(sys.stdout)
-    sys.stderr = UTF8Writer(sys.stderr)
     for fname in get_files(path):
         with codecs.open("".join([path,fname]), encoding='utf8') as f:
             page = f.read()
