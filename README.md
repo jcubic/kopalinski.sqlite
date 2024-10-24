@@ -19,4 +19,4 @@ Do otwarcia bazy możesz użyć biblioteki sqlite3 dla ulubionego języka.
 ## Licencja
 
 Kod dostępny na licencji [CC0 Public Domain](https://creativecommons.org/share-your-work/public-domain/cc0/)<br/>
-Jednak baza może zawierać dane, które są chronione prawem autorskim, używaj na własną odpowiedzialność.
+Jednak baza i archiwm magą zawierać dane, które są chronione prawem autorskim, używaj na własną odpowiedzialność.
