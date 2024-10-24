@@ -10,9 +10,7 @@ wygenerowany przez skrypt [sqlite.py](https://github.com/jcubic/kopalinski.sqlit
 wget -r http://www.slownik-online.pl/indeks_hasel.php
 ```
 
-Strona z [indexem w archive.org](https://web.archive.org/web/20121115000000*/http://www.slownik-online.pl/indeks_hasel.php) jest niestety uszkodzona.
-
-Archiwum strony jest zawarte w pliku [tag.gz](https://github.com/jcubic/kopalinski.sqlite/blob/master/www.slownik-online.pl.tar.gz)
+Strona z [indexem w archive.org](https://web.archive.org/web/20121115000000*/http://www.slownik-online.pl/indeks_hasel.php) jest niestety uszkodzona, ale kopia strony jest zawarte w pliku [tag.gz](https://github.com/jcubic/kopalinski.sqlite/blob/master/www.slownik-online.pl.tar.gz).
 
 Baza zawiera jedną tabelę `terms` która zawiera 3 pola `id`, `name` oraz `description`.
 
