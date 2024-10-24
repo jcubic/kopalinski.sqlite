@@ -1,4 +1,4 @@
-## Słownik Wyrazów Obcych Kopalińskiego jako baza sqlite
+# [Słownik Wyrazów Obcych Kopalińskiego](https://github.com/jcubic/kopalinski)
 
 Słownik pobrany ze strony [www.slownik-online.pl](http://www.slownik-online.pl), na której
 w chwili pisania skryptu nie działa już wyszukiwarka. W między czasie strona przestała
